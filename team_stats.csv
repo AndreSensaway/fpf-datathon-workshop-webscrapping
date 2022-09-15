@@ -1,33 +1,33 @@
 ,name,url,Goals,Goals conceded,Possession (%),Passing accuracy (%),Balls recovered,Tackles won,Clean sheets,Saves,Distance covered (km)
-0,Ajax,https://www.uefa.com/uefachampionsleague/clubs/50143--ajax/,4,0,71,93,34,4,1,1,113.62
-1,Atlético,https://www.uefa.com/uefachampionsleague/clubs/50124--atletico/,2,1,51,82,31,1,0,2,119.98
-2,Barcelona,https://www.uefa.com/uefachampionsleague/clubs/50080--barcelona/,5,1,73,92,33,4,0,0,116.82
-3,Bayern,https://www.uefa.com/uefachampionsleague/clubs/50037--bayern/,2,0,51,90,38,6,1,2,117.26
-4,Benfica,https://www.uefa.com/uefachampionsleague/clubs/50147--benfica/,2,0,54,85,49,1,1,2,117.98
-5,Celtic,https://www.uefa.com/uefachampionsleague/clubs/50050--celtic/,0,3,36,87,37,7,0,3,113.86
-6,Chelsea,https://www.uefa.com/uefachampionsleague/clubs/52914--chelsea/,0,1,62,90,60,4,0,2,110.95
-7,Club Brugge,https://www.uefa.com/uefachampionsleague/clubs/50043--club-brugge/,1,0,48,84,37,0,1,3,122.04
-8,Copenhagen,https://www.uefa.com/uefachampionsleague/clubs/52709--copenhagen/,0,3,40,84,43,2,0,1,114.97
-9,Dinamo Zagreb,https://www.uefa.com/uefachampionsleague/clubs/50164--dinamo-zagreb/,1,0,38,80,37,8,1,3,107.35
-10,Dortmund,https://www.uefa.com/uefachampionsleague/clubs/52758--dortmund/,3,0,60,88,50,4,1,2,115.12
-11,Frankfurt,https://www.uefa.com/uefachampionsleague/clubs/50072--frankfurt/,0,3,43,82,51,6,0,2,122.0
-12,Inter,https://www.uefa.com/uefachampionsleague/clubs/50138--inter/,0,2,49,86,40,6,0,11,117.39
-13,Juventus,https://www.uefa.com/uefachampionsleague/clubs/50139--juventus/,1,2,47,92,28,5,0,4,103.9
-14,Leipzig,https://www.uefa.com/uefachampionsleague/clubs/2603790--leipzig/,1,4,64,88,38,0,0,0,109.23
-15,Leverkusen,https://www.uefa.com/uefachampionsleague/clubs/50109--leverkusen/,0,1,52,85,45,0,0,2,119.1
-16,Liverpool,https://www.uefa.com/uefachampionsleague/clubs/7889--liverpool/,1,4,58,88,35,3,0,4,110.93
-17,M. Haifa,https://www.uefa.com/uefachampionsleague/clubs/59045--m-haifa/,0,2,46,82,44,1,0,2,110.73
-18,Man City,https://www.uefa.com/uefachampionsleague/clubs/52919--man-city/,4,0,60,91,42,1,1,1,113.73
-19,Marseille,https://www.uefa.com/uefachampionsleague/clubs/52748--marseille/,0,2,52,88,34,0,0,0,110.14
-20,Milan,https://www.uefa.com/uefachampionsleague/clubs/50058--milan/,1,1,65,85,39,6,0,2,113.12
-21,Napoli,https://www.uefa.com/uefachampionsleague/clubs/50136--napoli/,4,1,42,85,47,3,0,6,114.02
-22,Paris,https://www.uefa.com/uefachampionsleague/clubs/52747--paris/,2,1,53,93,29,4,0,3,100.22
-23,Plzeň,https://www.uefa.com/uefachampionsleague/clubs/64388--plzen/,1,5,27,74,37,5,0,5,114.86
-24,Porto,https://www.uefa.com/uefachampionsleague/clubs/50064--porto/,1,2,49,81,41,5,0,1,118.57
-25,Rangers,https://www.uefa.com/uefachampionsleague/clubs/50121--rangers/,0,4,29,81,32,1,0,5,107.26
-26,Real Madrid,https://www.uefa.com/uefachampionsleague/clubs/50051--real-madrid/,3,0,64,93,34,3,1,4,103.12
-27,Salzburg,https://www.uefa.com/uefachampionsleague/clubs/50030--salzburg/,1,1,35,74,44,11,0,2,114.46
-28,Sevilla,https://www.uefa.com/uefachampionsleague/clubs/52714--sevilla/,0,4,40,80,30,7,0,5,110.43
-29,Shakhtar Donetsk,https://www.uefa.com/uefachampionsleague/clubs/52707--shakhtar-donetsk/,4,1,36,83,32,7,0,1,112.14
-30,Sporting CP,https://www.uefa.com/uefachampionsleague/clubs/50149--sporting-cp/,3,0,57,84,37,5,1,2,118.64
-31,Tottenham,https://www.uefa.com/uefachampionsleague/clubs/1652--tottenham/,2,0,48,87,31,1,1,1,118.94
+0,Ajax,https://www.uefa.com/uefachampionsleague/clubs/50143--ajax/,5,2,57.5,87.0,70,16,1,9,230.86
+1,Atlético,https://www.uefa.com/uefachampionsleague/clubs/50124--atletico/,2,3,52.0,85.0,65,4,0,5,236.8
+2,Barcelona,https://www.uefa.com/uefachampionsleague/clubs/50080--barcelona/,5,3,63.0,90.0,81,8,0,2,235.41
+3,Bayern,https://www.uefa.com/uefachampionsleague/clubs/50037--bayern/,4,0,49.0,86.5,87,13,2,6,237.17
+4,Benfica,https://www.uefa.com/uefachampionsleague/clubs/50147--benfica/,4,1,54.0,85.5,98,5,1,4,239.83
+5,Celtic,https://www.uefa.com/uefachampionsleague/clubs/50050--celtic/,1,4,45.0,88.0,78,10,0,4,238.08
+6,Chelsea,https://www.uefa.com/uefachampionsleague/clubs/52914--chelsea/,1,2,65.5,87.5,106,12,0,4,224.25
+7,Club Brugge,https://www.uefa.com/uefachampionsleague/clubs/50043--club-brugge/,5,0,47.5,81.5,75,4,2,8,195.98
+8,Copenhagen,https://www.uefa.com/uefachampionsleague/clubs/52709--copenhagen/,0,3,39.5,80.5,74,10,1,3,235.71
+9,Dinamo Zagreb,https://www.uefa.com/uefachampionsleague/clubs/50164--dinamo-zagreb/,2,3,41.0,83.5,69,14,1,7,209.21
+10,Dortmund,https://www.uefa.com/uefachampionsleague/clubs/52758--dortmund/,4,2,48.0,85.0,88,9,1,3,235.32
+11,Frankfurt,https://www.uefa.com/uefachampionsleague/clubs/50072--frankfurt/,1,3,41.5,78.5,112,8,1,6,244.16
+12,Inter,https://www.uefa.com/uefachampionsleague/clubs/50138--inter/,2,2,59.0,88.5,71,11,1,12,202.81
+13,Juventus,https://www.uefa.com/uefachampionsleague/clubs/50139--juventus/,2,4,46.5,86.0,71,9,0,9,218.73
+14,Leipzig,https://www.uefa.com/uefachampionsleague/clubs/2603790--leipzig/,1,6,55.5,86.5,69,4,0,1,222.26
+15,Leverkusen,https://www.uefa.com/uefachampionsleague/clubs/50109--leverkusen/,2,1,49.5,84.5,71,5,1,5,235.96
+16,Liverpool,https://www.uefa.com/uefachampionsleague/clubs/7889--liverpool/,3,5,57.0,86.0,67,9,0,4,228.93
+17,M. Haifa,https://www.uefa.com/uefachampionsleague/clubs/59045--m-haifa/,1,5,47.0,84.0,78,6,0,5,215.98
+18,Man City,https://www.uefa.com/uefachampionsleague/clubs/52919--man-city/,6,1,62.0,90.5,81,5,1,2,230.15
+19,Marseille,https://www.uefa.com/uefachampionsleague/clubs/52748--marseille/,0,3,56.0,86.0,83,1,0,6,227.48
+20,Milan,https://www.uefa.com/uefachampionsleague/clubs/50058--milan/,4,2,60.5,86.5,83,10,0,4,221.98
+21,Napoli,https://www.uefa.com/uefachampionsleague/clubs/50136--napoli/,7,1,48.0,83.5,90,6,1,9,229.38
+22,Paris,https://www.uefa.com/uefachampionsleague/clubs/52747--paris/,5,2,52.5,89.5,66,4,0,7,205.51
+23,Plzeň,https://www.uefa.com/uefachampionsleague/clubs/64388--plzen/,1,7,29.0,77.5,65,8,0,10,198.89
+24,Porto,https://www.uefa.com/uefachampionsleague/clubs/50064--porto/,1,6,51.0,82.0,82,9,0,4,191.74
+25,Rangers,https://www.uefa.com/uefachampionsleague/clubs/50121--rangers/,0,7,37.5,79.0,62,3,0,12,214.88
+26,Real Madrid,https://www.uefa.com/uefachampionsleague/clubs/50051--real-madrid/,5,0,58.5,91.5,76,11,2,7,212.49
+27,Salzburg,https://www.uefa.com/uefachampionsleague/clubs/50030--salzburg/,2,2,33.0,69.0,82,24,0,5,233.91
+28,Sevilla,https://www.uefa.com/uefachampionsleague/clubs/52714--sevilla/,0,4,50.5,83.0,65,11,1,7,229.4
+29,Shakhtar Donetsk,https://www.uefa.com/uefachampionsleague/clubs/52707--shakhtar-donetsk/,5,2,41.0,84.0,67,9,0,8,235.72
+30,Sporting CP,https://www.uefa.com/uefachampionsleague/clubs/50149--sporting-cp/,5,0,57.0,85.5,74,12,2,8,233.85
+31,Tottenham,https://www.uefa.com/uefachampionsleague/clubs/1652--tottenham/,2,2,45.5,86.5,65,1,1,5,234.54
